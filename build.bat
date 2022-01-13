@@ -1,0 +1,1 @@
+pyinstaller --icon "osu.ico" --onefile "osu-resampler.py"
