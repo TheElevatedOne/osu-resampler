@@ -6,7 +6,7 @@ The resampler can also use ffmpeg-bar for better experience. https://github.com/
 Compiled using pyinstaller.	
 
 Commands:
--h/--help -> Show help.
+-h/--help -> Show help. <br>
 -i -> Full path to video file you want to resample.
 -fps -> FPS of the video you're trying to resample.
 -crf -> Quality of the video, the lower the better (0 is lossless, default=7).
